@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Final Project</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>My Responsive Page</h1>
+  </header>
+
+  <main class="container">
+    <section>
+      <img src="https://via.placeholder.com/300" alt="Mẫu ảnh minh họa">
+      <p>Đây là nội dung đoạn văn đầu tiên được thay đổi cho bài tập.</p>
+    </section>
+    <section>
+      <img src="https://via.placeholder.com/300" alt="Mẫu ảnh minh họa 2">
+      <p>Đây là đoạn văn thứ hai cho dự án thiết kế đáp ứng.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 My Website</p>
+  </footer>
+</body>
+</html>
